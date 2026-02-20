@@ -1,1 +1,11 @@
-Initial creation
+SUMMARY
+This project sets to understand what factors make a car more or less expensive in the used car market space. Linear regression models were used to find the lowest MSE indicating which feature set were important to used car price valuation.
+
+CONCOLUSION
+After analysing more than 400,000 used‑car listings shows that manufacturer is the single strongest predictor of a vehicle’s resale price. When I trained a series of linear regression models—each using different feature sets to predict price, the model based solely on manufacturer outperformed all others by a good margin.
+
+Why Manufacturers
+Manufacturer feature captures several powerful factors that influence what buyers are willing to pay: Brand reputation, reliability, quality, and prestige.
+
+Action
+Focus on promoting and seeking premium brands which maintain stronger price valuation.
